@@ -1,7 +1,7 @@
 <h1>Goodbye</h1>
 <?php
 $number = 1;
-if ($number==2){
+if ($number==1){
 echo "<h2> Hello </h2>";
 }
 ?>
